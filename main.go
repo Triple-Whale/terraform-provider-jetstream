@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/Triple-Whale/terraform-provider-jetstream/jetstream"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
-	"github.com/nats-io/terraform-provider-jetstream/jetstream"
 )
 
 func main() {

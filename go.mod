@@ -9,7 +9,7 @@ require (
 	github.com/nats-io/jwt/v2 v2.5.3
 	github.com/nats-io/nats-server/v2 v2.10.7
 	github.com/nats-io/nats.go v1.31.0
-	github.com/nats-io/terraform-provider-jetstream v0.1.1
+	github.com/Triple-Whale/terraform-provider-jetstream v0.1.3
 	github.com/xeipuuv/gojsonschema v1.2.0
 )
 
